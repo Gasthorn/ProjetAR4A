@@ -1,89 +1,34 @@
 # ninja log v5
-79	9199	7922524549749041	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
-147	907	7922524466901250	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
-139	9058	7922524548347254	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
-45	9050	7922524548266534	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
-907	1147	7922524469206844	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
-100	9007	7922524547827797	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
-91	9174	7922524549525405	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
-110	9003	7922524547807553	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
-131	9393	7922524551714791	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
-61	8988	7922524547660903	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
-9393	9503	7922524552820865	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
-81	596	7922833744476483	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
-596	918	7922833747469588	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
-48	2091	7922833759380239	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
-55	2103	7922833759464753	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
-23	2107	7922833759510136	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
-72	2124	7922833759715194	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
-16	2147	7922833759993904	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
-42	2267	7922833761153078	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
-63	2327	7922833761775330	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
-35	2333	7922833761755265	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
-2333	2455	7922833763049758	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
-107	569	7922836065767884	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
-570	807	7922836067806633	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
-61	1990	7922836079969390	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
-43	2009	7922836080154849	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
-30	2012	7922836080170019	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
-96	2023	7922836080307852	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
-9	2051	7922836080591425	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
-82	2136	7922836081459013	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
-52	2181	7922836081923358	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
-16	2225	7922836082330562	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
-2225	2341	7922836083513009	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
-94	360	7922859258417425	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
-361	3044	7922859285046196	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
-57	3758	7922859292279567	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
-42	3761	7922859292371264	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
-49	3763	7922859292274513	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
-84	3789	7922859292672568	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
-28	3820	7922859292990035	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
-74	3869	7922859293506135	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
-66	3961	7922859294390091	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
-20	4017	7922859294934893	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
-4018	4133	7922859296145557	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
-74	310	7922862277773024	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
-310	522	7922862279698308	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
-24	1869	7922862293254236	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
-38	1874	7922862293289533	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
-53	1880	7922862293378009	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
-31	1901	7922862293639261	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
-7	1904	7922862293649366	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
-62	1996	7922862294618994	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
-45	2053	7922862295181175	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
-15	2096	7922862295545862	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
-2096	2215	7922862296814343	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
-86	327	7922863915404300	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
-327	535	7922863917364716	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
-33	1676	7922863928877192	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
-49	1687	7922863928917179	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
-17	1691	7922863928978676	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
-25	1732	7922863929475218	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
-73	1776	7922863929911214	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
-60	1832	7922863930388665	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
-40	1932	7922863931455537	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
-10	1941	7922863931492262	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
-1942	2061	7922863932760525	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
-114	525	7922868703688478	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
-525	751	7922868705744132	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
-58	1718	7922868715560600	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
-68	1735	7922868715734093	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
-48	1742	7922868715784228	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
-96	1746	7922868715843694	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
-14	1764	7922868716083305	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
-105	1833	7922868716785695	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
-87	1876	7922868717218946	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
-30	1944	7922868717833164	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
-1944	2057	7922868719017690	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
-143	771	7922873274661256	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
-772	1252	7922873279209444	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
-67	2748	7922873294432933	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
-109	2755	7922873294482301	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
-76	2762	7922873294557361	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
-118	2783	7922873294784938	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
-46	2801	7922873295011009	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
-87	2954	7922873296510791	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
-38	2998	7922873296978118	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
-133	3115	7922873298160103	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
-3115	3261	7922873299614593	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
+81	3344	7923733402785130	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
+155	702	7923733376334798	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
+703	1142	7923733379676474	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
+50	2958	7923733399081765	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
+140	2626	7923733395585906	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
+97	2905	7923733398534378	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
+89	2834	7923733397488096	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
+120	2716	7923733396200292	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
+129	3063	7923733400122457	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
+59	2720	7923733396501853	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
+3344	3524	7923733404750827	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
+138	647	7923739867557210	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
+648	965	7923739870640537	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
+21	2194	7923739883099024	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
+107	2198	7923739883149472	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
+72	2207	7923739883209699	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
+118	2218	7923739883372016	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
+60	2244	7923739883654162	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
+129	2318	7923739884411729	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
+81	2388	7923739885137944	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
+43	2460	7923739885823153	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
+2460	2592	7923739887183175	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8
+89	412	7923740735878814	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7f69d78f6402d1ff
+412	646	7923740738284569	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libswappywrapper.so	d8599917b4cd4601
+28	1976	7923740751605495	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aeacce2bd35b8f79
+37	1980	7923740751686266	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27763a0bd993add
+8	2002	7923740751903094	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32b1265a5075bbb6
+58	2031	7923740752074754	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a56b130b994e7999
+77	2063	7923740752538543	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	20739125fbb5dd69
+68	2101	7923740752921728	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7f2fa92f98a406e7
+48	2219	7923740754152679	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	871c81edf891f322
+17	2259	7923740754482309	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d6b8f1c0d8fddb9e
+2260	2386	7923740755803774	C:/Users/Gaspard/Documents/documents/Projet AR/Diorama K'Tan/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/29393936/obj/arm64-v8a/libgame.so	50c2dce72293bfa8

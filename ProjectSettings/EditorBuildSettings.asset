@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/MenuTracking.unity
+    guid: 7f557ba73ab090b4ebf29e4c0dade4e3
+  - enabled: 1
     path: Assets/Scenes/ImageTracking.unity
     guid: 3194b921044b5c146ac9962e4c34a85a
   - enabled: 1

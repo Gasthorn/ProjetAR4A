@@ -3,12 +3,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
+using UnityEngine.UI;
 
 [RequireComponent(typeof(ARRaycastManager))]
 public class ARTapToPlaceObject : MonoBehaviour
 {
     public GameObject gameObjectToInstantiate;
-    public Vector3 objectScale = Vector3.one * 0.1f;
+    public Slider scaleSlider;
     private GameObject spawnedObject;
     private ARRaycastManager _arRaycastManager;
     private Vector2 touchPosition;
@@ -38,7 +39,11 @@ public class ARTapToPlaceObject : MonoBehaviour
             if(spawnedObject == null)
             {
                 spawnedObject = Instantiate(gameObjectToInstantiate, hitPose.position, hitPose.rotation);
-                spawnedObject.transform.localScale = objectScale;
+                spawnedObject.transform.localScale = Vector3.one * scaleSlider.value;
+            }
+            else if(spawnedObject != null && scaleSlider != null)
+            {
+                spawnedObject.transform.localScale = Vector3.one * scaleSlider.value;
             }
             else spawnedObject.transform.position = hitPose.position;
         }
