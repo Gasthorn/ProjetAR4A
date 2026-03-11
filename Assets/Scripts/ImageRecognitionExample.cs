@@ -14,7 +14,6 @@ public class ImageRecognitionExample : MonoBehaviour
     [Header("Scale Settings")]
     [SerializeField] private float scaleMultiplier = 0.05f;
 
-    // Dictionnaire pour garder une référence aux objets instanciés par image
     private Dictionary<string, GameObject> spawnedObjects = new Dictionary<string, GameObject>();
 
     private void OnEnable()
